@@ -1,0 +1,36 @@
+{
+  "VideoGames":
+  [
+      {"WordPhrase":"Grand Theft Auto"},
+      {"WordPhrase":"Resident Evil"},
+      {"WordPhrase":"Fortnite"},
+      {"WordPhrase":"Tetris"},
+      {"WordPhrase":"Minecraft"},
+      {"WordPhrase":"Super Smash Bros"},
+      {"WordPhrase":"Skyrim"},
+      {"WordPhrase":"Legend of Zelda"},
+      {"WordPhrase":"Animal Crossing"},
+      {"WordPhrase":"Call of Duty"},
+      {"WordPhrase":"Final Fantasy"},
+      {"WordPhrase":"Gears of War"},
+      {"WordPhrase":"Portal"},
+      {"WordPhrase":"Among Us"},
+      {"WordPhrase":"The Sims"},
+      {"WordPhrase":"Rollercoaster Tycoon"},
+      {"WordPhrase":"Stardew Valley"},
+      {"WordPhrase":"Escape from Tarkov"},
+      {"WordPhrase":"NBA 2k"},
+      {"WordPhrase":"Madden"},
+      {"WordPhrase":"Wii Sports"},
+      {"WordPhrase":"Pac-man"},
+      {"WordPhrase":"Mario Kart"},
+      {"WordPhrase":"Pokemon"},
+      {"WordPhrase":"Borderlands"},
+      {"WordPhrase":"The Last of Us"},
+      {"WordPhrase":"Cyberpunk 2077"},
+      {"WordPhrase":"Hogwarts Legacy"},
+      {"WordPhrase":"Harry Potter Lego Game"},
+      {"WordPhrase":"Fallout"}
+  ],
+  "Status":"OK"
+}

@@ -1,0 +1,25 @@
+{
+  "Books":
+  [
+    {"WordPhrase":"1984"},
+    {"WordPhrase":"Pride and Prejudice"},
+    {"WordPhrase":"The Great Gatsby"},
+    {"WordPhrase":"The Catcher in the Rye"},
+    {"WordPhrase":"Fahrenheit 451"},
+    {"WordPhrase":"Frankenstein"},
+    {"WordPhrase":"To Kill a Mockingbird"},
+    {"WordPhrase":"Harry Potter Series"},
+    {"WordPhrase":"Lord of the Rings Series"},
+    {"WordPhrase":"The Chronicles of Narnia"},
+    {"WordPhrase":"The Giver"},
+    {"WordPhrase":"Lord of the Flies"},
+    {"WordPhrase":"The Handmaid's Tale"},
+    {"WordPhrase":"One Flew Over the Cuckoo's Nest"},
+    {"WordPhrase":"The Bell Jar"},
+    {"WordPhrase":"On the Road"},
+    {"WordPhrase":"The Good Earth"},
+    {"WordPhrase":"Goosebumps"},
+    {"WordPhrase":"Novels by Brad Thor"}
+  ],
+  "Status":"OK"
+}
